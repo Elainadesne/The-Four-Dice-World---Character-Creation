@@ -1,2 +1,16 @@
-# The-Four-Dice-World---Character-Creation
-存储数据分离前端，便于维护修改
+# 数据资源目录
+
+该目录存储角色创建卡所需的静态数据文件（JSON 格式）。
+
+## 文件说明
+
+- `constants.json`: 基础常量配置（种族、职业、地点、背景等）。
+- `items.json`: 装备与技能数据。
+- `partners.json`: 伙伴/随从数据。
+- `scenarios.json`: 开局剧本/模板数据。
+
+## 维护建议
+
+1.  **远程同步**: 提交更改到 GitHub 后，由于使用了 jsDelivr CDN，可能存在分钟级的生效延迟。
+2.  **格式校验**: 修改 JSON 后请务必使用校验工具（如 VS Code 的 JSON 校验），确保没有多余的逗号或缺失引号。
+3.  **引用规范**: 前端通过 `fetch` 动态拉取，请勿随意更改文件名。
