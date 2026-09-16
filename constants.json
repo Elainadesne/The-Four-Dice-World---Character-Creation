@@ -2,50 +2,50 @@
   "races": ["凡人", "矿人", "森人", "圃人", "蜥蜴人", "兽人", "哥布林", "巨人族", "混血种"],
   "ranks": ["白瓷级", "黑曜石级", "钢铁级", "青玉级", "翠玉级", "红玉级", "青铜级", "银级", "金级", "白金级"],
   "locations": [
-    "中央王国-边境小镇",
-    "中央王国-边境牧场",
-    "中央王国-水之都",
-    "中央王国-王都",
-    "中央王国-魔法学都露米纳斯",
-    "中央王国-牧马镇",
-    "中央王国-橡木镇",
-    "中央王国-沙门驿站",
-    "中央王国-金穗城",
+    "中央王国-西部边境-边境小镇",
+    "中央王国-西部边境-边境牧场",
+    "南方水乡-静谧湖区-水之都",
+    "中央王国-王畿之心-王都",
+    "中央王国-王畿之心-魔法学都露米纳斯",
+    "中央王国-丰饶大平原-牧马镇",
+    "中央王国-北方林地-橡木镇",
+    "中央王国-东进边疆-沙门驿站",
+    "中央王国-丰饶大平原-金穗城",
     "北方之地-夜之国-港都",
-    "矿人王国-铁砧之面",
-    "百爵之地-圣库尔-碧翠枢",
-    "百爵之地-卡里安-衡律京",
-    "百爵之地-尼福兰特-凛冬寒",
-    "百爵之地-尼福兰特-熔炉炎",
+    "矿人王国-世界之脊-铁砧之面",
+    "百爵之地-圣库尔帝爵领-碧翠枢",
+    "百爵之地-卡里安帝爵领-衡律京",
+    "百爵之地-尼福兰特帝爵领-凛冬寒",
+    "百爵之地-尼福兰特帝爵领-熔炉炎",
     "百爵之地-贝伦王国-迪尔索特",
-    "大陆南部-兰德索尔",
+    "大陆南部-兰德索尔王国-兰德索尔城",
     "东方沙漠-龙喉火山带",
-    "南方水乡-千柱水寨",
-    "南方水乡-碧波港",
+    "南方水乡-缠绕沼泽-千柱水寨",
+    "南方水乡-静谧湖区-碧波港",
     "鸣神群岛-鸣神本岛-天领町",
     "鸣神群岛-莲花岛-莲心城",
     "鸣神群岛-八酝岛",
-    "瑝珑-今州城（鸣潮文明圈）",
-    "黑海岸（鸣潮文明圈）",
-    "黎那汐塔-黎乔利群岛（鸣潮文明圈）",
-    "黎那汐塔-拉古那主岛-拂风水畔（鸣潮文明圈）",
-    "黎那汐塔-拉古那主岛-氤柔水境（鸣潮文明圈）",
-    "黎那汐塔-拉古那主岛-埃弗拉德金库（鸣潮文明圈）",
-    "黎那汐塔-拉古那主岛-狄萨莱海脊（鸣潮文明圈）",
-    "黎那汐塔-拉古那城（鸣潮文明圈）",
-    "黎那汐塔-拉古那主岛-埃格拉镇（鸣潮文明圈）",
-    "黎那汐塔-拉古那主岛-狄萨莱海脊-波蒂维诺堡（鸣潮文明圈）",
-    "黎那汐塔-七丘本岛-卡庇托山城（鸣潮文明圈）",
-    "黎那汐塔-七丘-桑古伊斯狩原（鸣潮文明圈）"
+    "鸣潮文明圈-瑝珑-今州城",
+    "鸣潮文明圈-黑海岸",
+    "鸣潮文明圈-黎那汐塔-黎乔利群岛",
+    "鸣潮文明圈-黎那汐塔-拉古那主岛-拂风水畔",
+    "鸣潮文明圈-黎那汐塔-拉古那主岛-氤柔水境",
+    "鸣潮文明圈-黎那汐塔-拉古那主岛-埃弗拉德金库",
+    "鸣潮文明圈-黎那汐塔-拉古那主岛-狄萨莱海脊",
+    "鸣潮文明圈-黎那汐塔-拉古那城",
+    "鸣潮文明圈-黎那汐塔-拉古那主岛-拂风水畔-埃格拉镇",
+    "鸣潮文明圈-黎那汐塔-拉古那主岛-狄萨莱海脊-波蒂维诺堡",
+    "鸣潮文明圈-黎那汐塔-七丘本岛-卡庇托山城",
+    "鸣潮文明圈-黎那汐塔-七丘-桑古伊斯狩原"
   ],
   "locationVisuals": {
-    "中央王国-边境小镇": {
+    "中央王国-西部边境-边境小镇": {
       "id": "central-kingdom-border-town",
       "label": "边境小镇",
       "region": "中央王国",
       "kind": "城镇",
       "path": ["中央王国", "西部边境", "边境小镇"],
-      "aliases": ["边境小镇"],
+      "aliases": ["中央王国-边境小镇", "边境小镇"],
       "hero": {
         "title": "边境小镇全景",
         "url": "https://cdn.jsdelivr.net/gh/Elainadesne/imgbed@main/img/%E5%9C%B0%E7%82%B9/%E8%BE%B9%E5%A2%83%E5%B0%8F%E9%95%87/%E8%BE%B9%E5%A2%83%E5%B0%8F%E9%95%87%E5%85%A8%E6%99%AF.webp",
@@ -64,13 +64,13 @@
         }
       ]
     },
-    "中央王国-边境牧场": {
+    "中央王国-西部边境-边境牧场": {
       "id": "central-kingdom-frontier-ranch",
       "label": "边境牧场",
       "region": "中央王国",
       "kind": "乡野据点",
       "path": ["中央王国", "西部边境", "边境牧场"],
-      "aliases": ["边境牧场", "牧场"],
+      "aliases": ["中央王国-边境牧场", "边境牧场", "牧场"],
       "hero": {
         "title": "边境牧场",
         "url": "https://cdn.jsdelivr.net/gh/Elainadesne/imgbed@main/img/%E5%9C%B0%E7%82%B9/%E8%BE%B9%E5%A2%83%E5%B0%8F%E9%95%87/%E8%BE%B9%E5%A2%83%E5%B0%8F%E9%95%87-%E7%89%A7%E5%9C%BA.webp",
@@ -78,13 +78,13 @@
       },
       "scenes": []
     },
-    "中央王国-水之都": {
+    "南方水乡-静谧湖区-水之都": {
       "id": "central-kingdom-water-city",
       "label": "水之都",
       "region": "南方水乡",
       "kind": "城市",
       "path": ["南方水乡", "静谧湖区", "水之都"],
-      "aliases": ["水之都"],
+      "aliases": ["中央王国-水之都", "水之都"],
       "hero": {
         "title": "水之都",
         "url": "https://cdn.jsdelivr.net/gh/Elainadesne/imgbed@main/img/%E5%9C%B0%E7%82%B9/%E6%B0%B4%E4%B9%8B%E9%83%BD/%E6%B0%B4%E4%B9%8B%E9%83%BD.webp",
@@ -98,13 +98,13 @@
         }
       ]
     },
-    "中央王国-王都": {
+    "中央王国-王畿之心-王都": {
       "id": "central-kingdom-capital",
       "label": "王都",
       "region": "中央王国",
       "kind": "首都",
-      "path": ["中央王国", "王都"],
-      "aliases": ["王都", "中央王国王都"],
+      "path": ["中央王国", "王畿之心", "王都"],
+      "aliases": ["中央王国-王都", "王都", "中央王国王都"],
       "hero": {
         "title": "王都全景",
         "url": "https://cdn.jsdelivr.net/gh/Elainadesne/imgbed@main/img/%E5%9C%B0%E7%82%B9/%E7%8E%8B%E9%83%BD%E5%85%A8%E6%99%AF.webp",
@@ -112,13 +112,13 @@
       },
       "scenes": []
     },
-    "中央王国-魔法学都露米纳斯": {
+    "中央王国-王畿之心-魔法学都露米纳斯": {
       "id": "central-kingdom-luminas",
       "label": "魔法学都露米纳斯",
       "region": "中央王国",
       "kind": "城市",
-      "path": ["中央王国", "魔法学都露米纳斯"],
-      "aliases": ["露米纳斯", "魔法学都"],
+      "path": ["中央王国", "王畿之心", "魔法学都露米纳斯"],
+      "aliases": ["中央王国-魔法学都露米纳斯", "露米纳斯", "魔法学都"],
       "hero": {
         "title": "露米纳斯全景",
         "url": "https://cdn.jsdelivr.net/gh/Elainadesne/imgbed@main/img/%E5%9C%B0%E7%82%B9/%E9%9C%B2%E7%B1%B3%E7%BA%B3%E6%96%AF/%E9%9C%B2%E7%B1%B3%E7%BA%B3%E6%96%AF%E5%85%A8%E6%99%AF.webp",
@@ -143,13 +143,13 @@
         }
       ]
     },
-    "中央王国-牧马镇": {
+    "中央王国-丰饶大平原-牧马镇": {
       "id": "central-kingdom-horse-town",
       "label": "牧马镇",
       "region": "中央王国",
       "kind": "城镇",
       "path": ["中央王国", "丰饶大平原", "牧马镇"],
-      "aliases": ["牧马镇"],
+      "aliases": ["中央王国-牧马镇", "牧马镇"],
       "hero": {
         "title": "牧马镇全景",
         "url": "https://cdn.jsdelivr.net/gh/Elainadesne/imgbed@main/img/%E5%9C%B0%E7%82%B9/%E7%89%A7%E9%A9%AC%E9%95%87/%E7%89%A7%E9%A9%AC%E9%95%87%E5%85%A8%E6%99%AF.webp",
@@ -163,13 +163,13 @@
         }
       ]
     },
-    "中央王国-橡木镇": {
+    "中央王国-北方林地-橡木镇": {
       "id": "central-kingdom-oak-town",
       "label": "橡木镇",
       "region": "中央王国",
       "kind": "城镇",
       "path": ["中央王国", "北方林地", "橡木镇"],
-      "aliases": ["橡木镇"],
+      "aliases": ["中央王国-橡木镇", "橡木镇"],
       "hero": {
         "title": "橡木镇全景",
         "url": "https://cdn.jsdelivr.net/gh/Elainadesne/imgbed@main/img/%E5%9C%B0%E7%82%B9/%E6%A9%A1%E6%9C%A8%E9%95%87%E5%85%A8%E6%99%AF.webp",
@@ -177,13 +177,13 @@
       },
       "scenes": []
     },
-    "中央王国-沙门驿站": {
+    "中央王国-东进边疆-沙门驿站": {
       "id": "central-kingdom-shamen-post",
       "label": "沙门驿站",
       "region": "中央王国",
       "kind": "驿站",
-      "path": ["中央王国", "东部边疆", "沙门驿站"],
-      "aliases": ["沙门驿站"],
+      "path": ["中央王国", "东进边疆", "沙门驿站"],
+      "aliases": ["中央王国-沙门驿站", "沙门驿站"],
       "hero": {
         "title": "沙门驿站全景",
         "url": "https://cdn.jsdelivr.net/gh/Elainadesne/imgbed@main/img/%E5%9C%B0%E7%82%B9/%E6%B2%99%E9%97%A8%E9%A9%BF%E7%AB%99%E5%85%A8%E6%99%AF.webp",
@@ -191,13 +191,13 @@
       },
       "scenes": []
     },
-    "中央王国-金穗城": {
+    "中央王国-丰饶大平原-金穗城": {
       "id": "central-kingdom-golden-harvest-city",
       "label": "金穗城",
       "region": "中央王国",
       "kind": "城市",
       "path": ["中央王国", "丰饶大平原", "金穗城"],
-      "aliases": ["金穗城"],
+      "aliases": ["中央王国-金穗城", "金穗城"],
       "hero": {
         "title": "金穗城全景",
         "url": "https://cdn.jsdelivr.net/gh/Elainadesne/imgbed@main/img/%E5%9C%B0%E7%82%B9/%E9%87%91%E7%A9%97%E5%9F%8E/%E9%87%91%E7%A9%97%E5%9F%8E%E5%85%A8%E6%99%AF.webp",
@@ -225,13 +225,13 @@
       },
       "scenes": []
     },
-    "矿人王国-铁砧之面": {
+    "矿人王国-世界之脊-铁砧之面": {
       "id": "dwarf-kingdom-anvil-face",
       "label": "铁砧之面",
       "region": "矿人王国",
       "kind": "地面要塞",
       "path": ["矿人王国", "世界之脊", "铁砧之面"],
-      "aliases": ["铁砧之面"],
+      "aliases": ["矿人王国-铁砧之面", "铁砧之面"],
       "hero": {
         "title": "铁砧之面全景",
         "url": "https://cdn.jsdelivr.net/gh/Elainadesne/imgbed@main/img/%E5%9C%B0%E7%82%B9/%E9%93%81%E7%A0%A7%E4%B9%8B%E9%9D%A2%E5%85%A8%E6%99%AF.webp",
@@ -239,13 +239,13 @@
       },
       "scenes": []
     },
-    "百爵之地-圣库尔-碧翠枢": {
+    "百爵之地-圣库尔帝爵领-碧翠枢": {
       "id": "hundred-duchies-saint-cour-bicui-hub",
       "label": "碧翠枢",
       "region": "百爵之地",
       "kind": "城市",
       "path": ["百爵之地", "圣库尔帝爵领", "碧翠枢"],
-      "aliases": ["碧翠枢", "圣库尔", "百爵之地-圣库尔"],
+      "aliases": ["百爵之地-圣库尔-碧翠枢", "碧翠枢", "圣库尔", "百爵之地-圣库尔"],
       "hero": {
         "title": "圣库尔·碧翠枢全景",
         "url": "https://cdn.jsdelivr.net/gh/Elainadesne/imgbed@main/img/%E5%9C%B0%E7%82%B9/%E7%99%BE%E7%88%B5%E4%B9%8B%E5%9C%B0/%E7%99%BE%E7%88%B5%E4%B9%8B%E5%9C%B0-%E5%9C%A3%E5%BA%93%E5%B0%94-%E7%A2%A7%E7%BF%A0%E6%9E%A2%E5%85%A8%E6%99%AF.webp",
@@ -253,13 +253,13 @@
       },
       "scenes": []
     },
-    "百爵之地-卡里安-衡律京": {
+    "百爵之地-卡里安帝爵领-衡律京": {
       "id": "hundred-duchies-carian-henglu-capital",
       "label": "衡律京",
       "region": "百爵之地",
       "kind": "首都",
       "path": ["百爵之地", "卡里安帝爵领", "衡律京"],
-      "aliases": ["衡律京", "卡里安", "百爵之地-卡里安", "金翎之心", "天平城", "卡里安魔法学园"],
+      "aliases": ["百爵之地-卡里安-衡律京", "衡律京", "卡里安", "百爵之地-卡里安", "金翎之心", "天平城", "卡里安魔法学园"],
       "hero": {
         "title": "卡里安·衡律京全景",
         "url": "https://cdn.jsdelivr.net/gh/Elainadesne/imgbed@main/img/%E5%9C%B0%E7%82%B9/%E7%99%BE%E7%88%B5%E4%B9%8B%E5%9C%B0/%E7%99%BE%E7%88%B5%E4%B9%8B%E5%9C%B0-%E5%8D%A1%E9%87%8C%E5%AE%89-%E8%A1%A1%E5%BE%8B%E4%BA%AC%E5%85%A8%E6%99%AF.webp",
@@ -273,13 +273,13 @@
         }
       ]
     },
-    "百爵之地-尼福兰特-凛冬寒": {
+    "百爵之地-尼福兰特帝爵领-凛冬寒": {
       "id": "hundred-duchies-niflante-winterhold",
       "label": "凛冬寒",
       "region": "百爵之地",
       "kind": "首府",
       "path": ["百爵之地", "尼福兰特帝爵领", "凛冬寒"],
-      "aliases": ["凛冬寒", "尼福兰特", "百爵之地-尼福兰特"],
+      "aliases": ["百爵之地-尼福兰特-凛冬寒", "凛冬寒", "尼福兰特", "百爵之地-尼福兰特"],
       "hero": {
         "title": "凛冬寒",
         "url": "https://cdn.jsdelivr.net/gh/Elainadesne/imgbed@main/img/%E5%9C%B0%E7%82%B9/%E7%99%BE%E7%88%B5%E4%B9%8B%E5%9C%B0/%E7%99%BE%E7%88%B5%E4%B9%8B%E5%9C%B0-%E5%B0%BC%E7%A6%8F%E5%85%B0%E7%89%B9-%E5%87%9B%E5%86%AC%E5%AF%92.webp",
@@ -288,13 +288,13 @@
       },
       "scenes": []
     },
-    "百爵之地-尼福兰特-熔炉炎": {
+    "百爵之地-尼福兰特帝爵领-熔炉炎": {
       "id": "hundred-duchies-niflante-forgeblaze",
       "label": "熔炉炎",
       "region": "百爵之地",
       "kind": "军事要塞",
       "path": ["百爵之地", "尼福兰特帝爵领", "熔炉炎"],
-      "aliases": ["熔炉炎"],
+      "aliases": ["百爵之地-尼福兰特-熔炉炎", "熔炉炎"],
       "hero": {
         "title": "熔炉炎",
         "url": "https://cdn.jsdelivr.net/gh/Elainadesne/imgbed@main/img/%E5%9C%B0%E7%82%B9/%E7%99%BE%E7%88%B5%E4%B9%8B%E5%9C%B0/%E7%99%BE%E7%88%B5%E4%B9%8B%E5%9C%B0-%E5%B0%BC%E7%A6%8F%E5%85%B0%E7%89%B9-%E7%86%94%E7%82%89%E7%82%8E.webp",
@@ -316,13 +316,13 @@
       },
       "scenes": []
     },
-    "大陆南部-兰德索尔": {
+    "大陆南部-兰德索尔王国-兰德索尔城": {
       "id": "southern-continent-landsoul",
-      "label": "兰德索尔",
+      "label": "兰德索尔城",
       "region": "大陆南部",
       "kind": "城邦",
-      "path": ["大陆南部", "兰德索尔"],
-      "aliases": ["兰德索尔"],
+      "path": ["大陆南部", "兰德索尔王国", "兰德索尔城"],
+      "aliases": ["大陆南部-兰德索尔", "兰德索尔", "兰德索尔王国", "兰德索尔城"],
       "hero": {
         "title": "兰德索尔全景",
         "url": "https://cdn.jsdelivr.net/gh/Elainadesne/imgbed@main/img/%E5%9C%B0%E7%82%B9/%E5%85%B0%E5%BE%B7%E7%B4%A2%E5%B0%94%E5%85%A8%E6%99%AF.webp",
@@ -340,13 +340,13 @@
       "hero": null,
       "scenes": []
     },
-    "南方水乡-千柱水寨": {
+    "南方水乡-缠绕沼泽-千柱水寨": {
       "id": "southern-waters-thousand-pillar-stockade",
       "label": "千柱水寨",
       "region": "南方水乡",
       "kind": "聚落",
       "path": ["南方水乡", "缠绕沼泽", "千柱水寨"],
-      "aliases": ["千柱水寨"],
+      "aliases": ["南方水乡-千柱水寨", "千柱水寨"],
       "hero": {
         "title": "千柱水寨全景",
         "url": "https://cdn.jsdelivr.net/gh/Elainadesne/imgbed@main/img/%E5%9C%B0%E7%82%B9/%E5%8D%83%E6%9F%B1%E6%B0%B4%E5%AF%A8%E5%85%A8%E6%99%AF.webp",
@@ -355,13 +355,13 @@
       },
       "scenes": []
     },
-    "南方水乡-碧波港": {
+    "南方水乡-静谧湖区-碧波港": {
       "id": "southern-waters-azure-wave-port",
       "label": "碧波港",
       "region": "南方水乡",
       "kind": "港镇",
       "path": ["南方水乡", "静谧湖区", "碧波港"],
-      "aliases": ["碧波港"],
+      "aliases": ["南方水乡-碧波港", "碧波港"],
       "hero": {
         "title": "碧波港全景",
         "url": "https://cdn.jsdelivr.net/gh/Elainadesne/imgbed@main/img/%E5%9C%B0%E7%82%B9/%E6%B0%B4%E4%B9%8B%E9%83%BD/%E6%B0%B4%E4%B9%8B%E9%83%BD-%E7%A2%A7%E6%B3%A2%E6%B8%AF%E5%85%A8%E6%99%AF.webp",
@@ -422,13 +422,13 @@
       },
       "scenes": []
     },
-    "瑝珑-今州城（鸣潮文明圈）": {
+    "鸣潮文明圈-瑝珑-今州城": {
       "id": "huanglong-jinzhou-city-wuwa",
       "label": "今州城",
       "region": "瑝珑",
       "kind": "城市",
       "path": ["鸣潮文明圈", "瑝珑", "今州城"],
-      "aliases": ["瑝珑（鸣潮文明圈）", "瑝珑", "今州", "今州城"],
+      "aliases": ["瑝珑-今州城（鸣潮文明圈）", "瑝珑（鸣潮文明圈）", "瑝珑", "今州", "今州城"],
       "hero": {
         "title": "今州城",
         "url": "https://cdn.jsdelivr.net/gh/Elainadesne/imgbed@main/img/%E5%9C%B0%E7%82%B9/%E9%B8%A3%E6%BD%AE/%E9%B8%A3%E6%BD%AE-%E4%BB%8A%E5%B7%9E%E5%9F%8E.webp",
@@ -436,13 +436,13 @@
       },
       "scenes": []
     },
-    "黑海岸（鸣潮文明圈）": {
+    "鸣潮文明圈-黑海岸": {
       "id": "black-shores-wuwa",
       "label": "黑海岸",
       "region": "黑海岸",
       "kind": "群岛区域",
       "path": ["鸣潮文明圈", "黑海岸"],
-      "aliases": ["黑海岸", "黑海岸群岛"],
+      "aliases": ["黑海岸（鸣潮文明圈）", "黑海岸", "黑海岸群岛"],
       "hero": {
         "title": "黑海岸群岛全景",
         "url": "https://cdn.jsdelivr.net/gh/Elainadesne/imgbed@main/img/%E5%9C%B0%E7%82%B9/%E9%B8%A3%E6%BD%AE/%E9%B8%A3%E6%BD%AE%C2%B7%E9%BB%91%E6%B5%B7%E5%B2%B8%E7%BE%A4%E5%B2%9B%E5%85%A8%E6%99%AF.webp",
@@ -450,13 +450,13 @@
       },
       "scenes": []
     },
-    "黎那汐塔-黎乔利群岛（鸣潮文明圈）": {
+    "鸣潮文明圈-黎那汐塔-黎乔利群岛": {
       "id": "rinascita-riccioli-islands-wuwa",
       "label": "黎乔利群岛",
       "region": "黎那汐塔·黎乔利",
       "kind": "群岛",
       "path": ["鸣潮文明圈", "黎那汐塔", "黎乔利群岛"],
-      "aliases": ["黎乔利群岛"],
+      "aliases": ["黎那汐塔-黎乔利群岛（鸣潮文明圈）", "黎乔利群岛"],
       "hero": {
         "title": "黎乔利群岛",
         "url": "https://cdn.jsdelivr.net/gh/Elainadesne/imgbed@main/img/%E5%9C%B0%E7%82%B9/%E9%BB%8E%E9%82%A3%E6%B1%90%E5%A1%94/%E9%BB%8E%E9%82%A3%E6%B1%90%E5%A1%94%C2%B7%E9%BB%8E%E4%B9%94%E5%88%A9%E7%BE%A4%E5%B2%9B.webp",
@@ -464,13 +464,13 @@
       },
       "scenes": []
     },
-    "黎那汐塔-拉古那主岛-拂风水畔（鸣潮文明圈）": {
+    "鸣潮文明圈-黎那汐塔-拉古那主岛-拂风水畔": {
       "id": "rinascita-ragunna-breezy-waterside-wuwa",
       "label": "拂风水畔",
       "region": "黎那汐塔·拉古那",
       "kind": "区域",
       "path": ["鸣潮文明圈", "黎那汐塔", "拉古那主岛", "拂风水畔"],
-      "aliases": ["黎那汐塔-拉古那主岛（鸣潮文明圈）", "拉古那主岛", "拂风水畔"],
+      "aliases": ["黎那汐塔-拉古那主岛-拂风水畔（鸣潮文明圈）", "黎那汐塔-拉古那主岛（鸣潮文明圈）", "拉古那主岛", "拂风水畔"],
       "hero": {
         "title": "拉古那主岛",
         "url": "https://cdn.jsdelivr.net/gh/Elainadesne/imgbed@main/img/%E5%9C%B0%E7%82%B9/%E9%BB%8E%E9%82%A3%E6%B1%90%E5%A1%94/%E9%BB%8E%E9%82%A3%E6%B1%90%E5%A1%94%C2%B7%E6%8B%89%E5%8F%A4%E9%82%A3%E4%B8%BB%E5%B2%9B.webp",
@@ -484,13 +484,13 @@
         }
       ]
     },
-    "黎那汐塔-拉古那主岛-氤柔水境（鸣潮文明圈）": {
+    "鸣潮文明圈-黎那汐塔-拉古那主岛-氤柔水境": {
       "id": "rinascita-ragunna-misty-water-realm-wuwa",
       "label": "氤柔水境",
       "region": "黎那汐塔·拉古那",
       "kind": "区域",
       "path": ["鸣潮文明圈", "黎那汐塔", "拉古那主岛", "氤柔水境"],
-      "aliases": ["氤柔水境"],
+      "aliases": ["黎那汐塔-拉古那主岛-氤柔水境（鸣潮文明圈）", "氤柔水境"],
       "hero": {
         "title": "氤柔水境",
         "url": "https://cdn.jsdelivr.net/gh/Elainadesne/imgbed@main/img/%E5%9C%B0%E7%82%B9/%E9%B8%A3%E6%BD%AE/%E9%B8%A3%E6%BD%AE%C2%B7%E6%8B%89%E5%8F%A4%E9%82%A3%E4%B8%BB%E5%B2%9B%C2%B7%E6%B0%A4%E6%9F%94%E6%B0%B4%E5%A2%83.webp",
@@ -498,13 +498,13 @@
       },
       "scenes": []
     },
-    "黎那汐塔-拉古那主岛-埃弗拉德金库（鸣潮文明圈）": {
+    "鸣潮文明圈-黎那汐塔-拉古那主岛-埃弗拉德金库": {
       "id": "rinascita-ragunna-everard-vault-wuwa",
       "label": "埃弗拉德金库",
       "region": "黎那汐塔·拉古那",
       "kind": "区域",
       "path": ["鸣潮文明圈", "黎那汐塔", "拉古那主岛", "埃弗拉德金库"],
-      "aliases": ["埃弗拉德金库"],
+      "aliases": ["黎那汐塔-拉古那主岛-埃弗拉德金库（鸣潮文明圈）", "埃弗拉德金库"],
       "hero": {
         "title": "埃弗拉德金库",
         "url": "https://cdn.jsdelivr.net/gh/Elainadesne/imgbed@main/img/%E5%9C%B0%E7%82%B9/%E9%B8%A3%E6%BD%AE/%E9%B8%A3%E6%BD%AE%C2%B7%E6%8B%89%E5%8F%A4%E9%82%A3%E4%B8%BB%E5%B2%9B%C2%B7%E5%9F%83%E5%BC%97%E6%8B%89%E5%BE%B7%E9%87%91%E5%BA%93.webp",
@@ -512,13 +512,13 @@
       },
       "scenes": []
     },
-    "黎那汐塔-拉古那主岛-狄萨莱海脊（鸣潮文明圈）": {
+    "鸣潮文明圈-黎那汐塔-拉古那主岛-狄萨莱海脊": {
       "id": "rinascita-ragunna-disale-ridge-wuwa",
       "label": "狄萨莱海脊",
       "region": "黎那汐塔·拉古那",
       "kind": "区域",
       "path": ["鸣潮文明圈", "黎那汐塔", "拉古那主岛", "狄萨莱海脊"],
-      "aliases": ["狄萨莱海脊"],
+      "aliases": ["黎那汐塔-拉古那主岛-狄萨莱海脊（鸣潮文明圈）", "狄萨莱海脊"],
       "hero": {
         "title": "狄萨莱海脊",
         "url": "https://cdn.jsdelivr.net/gh/Elainadesne/imgbed@main/img/%E5%9C%B0%E7%82%B9/%E9%B8%A3%E6%BD%AE/%E9%B8%A3%E6%BD%AE%C2%B7%E6%8B%89%E5%8F%A4%E9%82%A3%E4%B8%BB%E5%B2%9B%C2%B7%E7%8B%84%E8%90%A8%E8%8E%B1%E6%B5%B7%E8%84%8A.webp",
@@ -526,13 +526,13 @@
       },
       "scenes": []
     },
-    "黎那汐塔-拉古那城（鸣潮文明圈）": {
+    "鸣潮文明圈-黎那汐塔-拉古那城": {
       "id": "rinascita-ragunna-city-wuwa",
       "label": "拉古那城",
       "region": "黎那汐塔·拉古那",
       "kind": "城市",
       "path": ["鸣潮文明圈", "黎那汐塔", "拉古那城"],
-      "aliases": ["拉古那城", "埃弗拉德银行", "水星天教堂", "港口区", "潮汐圣堂", "自由广场", "贡多拉水市"],
+      "aliases": ["黎那汐塔-拉古那城（鸣潮文明圈）", "拉古那城", "埃弗拉德银行", "水星天教堂", "港口区", "潮汐圣堂", "自由广场", "贡多拉水市"],
       "hero": {
         "title": "拉古那城全景",
         "url": "https://cdn.jsdelivr.net/gh/Elainadesne/imgbed@main/img/%E5%9C%B0%E7%82%B9/%E6%8B%89%E5%8F%A4%E9%82%A3%E5%9F%8E/%E6%8B%89%E5%8F%A4%E9%82%A3%E5%9F%8E%E5%85%A8%E6%99%AF.webp",
@@ -571,33 +571,33 @@
         }
       ]
     },
-    "黎那汐塔-拉古那主岛-埃格拉镇（鸣潮文明圈）": {
+    "鸣潮文明圈-黎那汐塔-拉古那主岛-拂风水畔-埃格拉镇": {
       "id": "rinascita-ragunna-egla-town-wuwa",
       "label": "埃格拉镇",
       "region": "黎那汐塔·拉古那",
       "kind": "城镇",
       "path": ["鸣潮文明圈", "黎那汐塔", "拉古那主岛", "拂风水畔", "埃格拉镇"],
-      "aliases": ["黎那汐塔-埃拉格小镇（鸣潮文明圈）", "埃拉格小镇", "埃格拉镇"],
+      "aliases": ["黎那汐塔-拉古那主岛-埃格拉镇（鸣潮文明圈）", "黎那汐塔-埃拉格小镇（鸣潮文明圈）", "埃拉格小镇", "埃格拉镇"],
       "hero": null,
       "scenes": []
     },
-    "黎那汐塔-拉古那主岛-狄萨莱海脊-波蒂维诺堡（鸣潮文明圈）": {
+    "鸣潮文明圈-黎那汐塔-拉古那主岛-狄萨莱海脊-波蒂维诺堡": {
       "id": "rinascita-ragunna-disale-portiveno-castle-wuwa",
       "label": "波蒂维诺堡",
       "region": "黎那汐塔·拉古那",
       "kind": "城堡",
       "path": ["鸣潮文明圈", "黎那汐塔", "拉古那主岛", "狄萨莱海脊", "波蒂维诺堡"],
-      "aliases": ["黎那汐塔-波蒂维诺堡（鸣潮文明圈）", "波蒂维诺堡"],
+      "aliases": ["黎那汐塔-拉古那主岛-狄萨莱海脊-波蒂维诺堡（鸣潮文明圈）", "黎那汐塔-波蒂维诺堡（鸣潮文明圈）", "波蒂维诺堡"],
       "hero": null,
       "scenes": []
     },
-    "黎那汐塔-七丘本岛-卡庇托山城（鸣潮文明圈）": {
+    "鸣潮文明圈-黎那汐塔-七丘本岛-卡庇托山城": {
       "id": "rinascita-septimont-capitoline-city-wuwa",
       "label": "卡庇托山城",
       "region": "黎那汐塔·七丘",
       "kind": "城市",
       "path": ["鸣潮文明圈", "黎那汐塔", "七丘本岛", "卡庇托山城"],
-      "aliases": ["黎那汐塔-七丘本岛（鸣潮文明圈）", "七丘", "七丘本岛", "卡庇托", "卡庇托山城"],
+      "aliases": ["黎那汐塔-七丘本岛-卡庇托山城（鸣潮文明圈）", "黎那汐塔-七丘本岛（鸣潮文明圈）", "七丘", "七丘本岛", "卡庇托", "卡庇托山城"],
       "hero": {
         "title": "七丘本岛·卡庇托山城全景",
         "url": "https://cdn.jsdelivr.net/gh/Elainadesne/imgbed@main/img/%E5%9C%B0%E7%82%B9/%E9%B8%A3%E6%BD%AE/%E9%B8%A3%E6%BD%AE%C2%B7%E4%B8%83%E4%B8%98%E6%9C%AC%E5%B2%9B%C2%B7%E5%8D%A1%E5%BA%87%E6%89%98%E5%B1%B1%E5%9F%8E%E5%85%A8%E6%99%AF.webp",
@@ -605,13 +605,13 @@
       },
       "scenes": []
     },
-    "黎那汐塔-七丘-桑古伊斯狩原（鸣潮文明圈）": {
+    "鸣潮文明圈-黎那汐塔-七丘-桑古伊斯狩原": {
       "id": "rinascita-septimont-sanguis-hunting-ground-wuwa",
       "label": "桑古伊斯狩原",
       "region": "黎那汐塔·七丘",
       "kind": "危险区域",
       "path": ["鸣潮文明圈", "黎那汐塔", "七丘", "桑古伊斯狩原"],
-      "aliases": ["桑古伊斯狩原", "呓语镇", "四方殿"],
+      "aliases": ["黎那汐塔-七丘-桑古伊斯狩原（鸣潮文明圈）", "桑古伊斯狩原", "呓语镇", "四方殿"],
       "hero": {
         "title": "桑古伊斯狩原全景",
         "url": "https://cdn.jsdelivr.net/gh/Elainadesne/imgbed@main/img/%E5%9C%B0%E7%82%B9/%E9%B8%A3%E6%BD%AE/%E9%B8%A3%E6%BD%AE%C2%B7%E6%A1%91%E5%8F%A4%E4%BC%8A%E6%96%AF%E7%8B%A9%E5%8E%9F%E5%85%A8%E6%99%AF.webp",
